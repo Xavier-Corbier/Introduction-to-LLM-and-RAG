@@ -10,18 +10,18 @@
 - Session 1: Introduction to Large Language Models (LLMs) 
   - [Part 1: Overview of Language Models ](./sessions/S1-P1.md)
   - [Part 2: Introduction to Responsible AI ](./sessions/S1-P2.md)
-  - [Part 3: Safety & Fairness Considerations for Generative Models ](./sessions/S1-P1.md)
+  - [Part 3: Safety & Fairness Considerations for Generative Models ](./sessions/S1-P3.md)
 - Session 2: Working with Large Language Models ? 
-  - [Part 1: Prompt Engineering](./sessions/S1-P1.md)
-  - [Part 2: Getting Started with ChatGPT](./sessions/S1-P1.md)
-  - [Part 3: Getting Started with Hugging Face](./sessions/S1-P1.md)
+  - [Part 1: Prompt Engineering](./sessions/S2-P1.md)
+  - [Part 2: Getting Started with ChatGPT](./sessions/S2-P2.md)
+  - [Part 3: Getting Started with Hugging Face](./sessions/S2-P3.md)
 - Session 3: Developing Generative AI Models  
-  - [Part 1: Model training](./sessions/S1-P1.md)
-  - [Part 2: Develop specialized models](./sessions/S1-P1.md)
-  - [Part 3: Model evaluation](./sessions/S1-P1.md)
+  - [Part 1: Model training](./sessions/S3-P1.md)
+  - [Part 2: Develop specialized models](./sessions/S3-P2.md)
+  - [Part 3: Model evaluation](./sessions/S3-P3.md)
 - Session 4: Introduction to Retrieval-augmented generation (RAG) 
-  - [Part 1: What is RAG ?](./sessions/S1-P1.md)
-  - [Part 2: Getting Started with RAG](./sessions/S1-P1.md)
+  - [Part 1: What is RAG ?](./sessions/S4-P1.md)
+  - [Part 2: Getting Started with RAG](./sessions/S4-P2.md)
 
 # For further exploration
 - [Ollama Blog](https://ollama.com/blog)
