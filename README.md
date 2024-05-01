@@ -31,3 +31,4 @@
 
 # References
 - [Google: Getting started with Machine learning](https://developers.google.com/machine-learning/resources?hl=en)
+- [Stanford: Getting Started with ChatGPT](https://uit.stanford.edu/service/techtraining/class/getting-started-chatgpt)
