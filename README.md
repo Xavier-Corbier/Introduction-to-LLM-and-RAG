@@ -1,4 +1,5 @@
-<img src="ressources/logo.png" alt="logo" style="width:200px;"/>
+<img src="ressources/polytech.png" alt="logo" style="height:100px;"/>
+<img src="ressources/erios.png" alt="logo" style="height:100px;margin-left:10px"/>
 
 # Introduction to LLM & RAG
 ### Polytech Montpellier – FLOW Summer School
@@ -11,7 +12,7 @@
   - [Part 1: Overview of Language Models ](./sessions/S1-P1.md)
   - [Part 2: Introduction to Responsible AI ](./sessions/S1-P2.md)
   - [Part 3: Safety & Fairness Considerations for Generative Models ](./sessions/S1-P3.md)
-- Session 2: Working with Large Language Models ? 
+- Session 2: Working with Large Language Models 
   - [Part 1: Prompt Engineering](./sessions/S2-P1.md)
   - [Part 2: Getting Started with ChatGPT](./sessions/S2-P2.md)
   - [Part 3: Getting Started with Hugging Face](./sessions/S2-P3.md)
