@@ -15,13 +15,10 @@
   - [Part 1: Prompt Engineering](./sessions/S2-P1.md)
   - [Part 2: Getting Started with ChatGPT](./sessions/S2-P2.md)
   - [Part 3: Getting Started with Hugging Face](./sessions/S2-P3.md)
-- Session 3: Developing Generative AI Models  
+- Session 3: Developing  with Generative AI Models  
   - [Part 1: Model training](./sessions/S3-P1.md)
-  - [Part 2: Develop specialized models](./sessions/S3-P2.md)
-  - [Part 3: Model evaluation](./sessions/S3-P3.md)
-- Session 4: Introduction to Retrieval-augmented generation (RAG) 
-  - [Part 1: What is RAG ?](./sessions/S4-P1.md)
-  - [Part 2: Getting Started with RAG](./sessions/S4-P2.md)
+  - [Part 2: Overview of Generative AI tools to execute LLM](./sessions/S3-P2.md)
+  - [Part 3: Getting Started with Retrieval-augmented generation (RAG)](./sessions/S3-P3.md)
 
 # For further exploration
 - [Ollama Blog](https://ollama.com/blog)
@@ -32,3 +29,4 @@
 # References
 - [Google: Getting started with Machine learning](https://developers.google.com/machine-learning/resources?hl=en)
 - [Stanford: Getting Started with ChatGPT](https://uit.stanford.edu/service/techtraining/class/getting-started-chatgpt)
+- [FreeCodeCamp: How to Get Started with Hugging Face – Open Source AI Models and Datasets](https://www.freecodecamp.org/news/get-started-with-hugging-face/)
