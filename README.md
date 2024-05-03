@@ -18,7 +18,7 @@
   - [Part 1: Prompt Engineering](./sessions/S2-P1.md)
   - [Part 2: Getting Started with ChatGPT](./sessions/S2-P2.md)
   - [Part 3: The Top 10 ChatGPT alternatives to ChatGPT](./sessions/S2-P3.md)
-- Session 3: Develop with Generative AI Models  
+- Session 3: Developing with Generative AI Models  
   - [Part 1: Getting Started with Hugging Face](./sessions/S3-P1.md)
   - [Part 2: Fine tuning LLM](./sessions/S3-P2.md)
   - [Part 3: What is Retrieval-augmented generation (RAG)](./sessions/S3-P3.md)
