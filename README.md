@@ -1,8 +1,4 @@
-<p align="left">
-  <img src="ressources/polytech.jpg" alt="Polytech" style="height:100px;"/>
-    <img src="ressources/um.png" alt="Polytech" style="height:100px;"/>
-  <img src="ressources/erios.png" alt="ERIOS" style="height:100px;"/>
-</p>
+
 
 ### Polytech Montpellier – FLOW Summer School
 
@@ -34,3 +30,9 @@
 - [FreeCodeCamp: How to Get Started with Hugging Face](https://www.freecodecamp.org/news/get-started-with-hugging-face/)
 - [Datacamp: Fine tuning LLM](https://www.datacamp.com/tutorial/fine-tuning-large-language-models)
 - [Nvidia: What Is Retrieval-Augmented Generation, aka RAG?](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/)
+<hr>
+<p align="left">
+  <img src="ressources/polytech.jpg" alt="Polytech" style="height:100px;"/>
+    <img src="ressources/um.png" alt="Polytech" style="height:100px;"/>
+  <img src="ressources/erios.png" alt="ERIOS" style="height:100px;"/>
+</p>
