@@ -1,5 +1,6 @@
 <p align="left">
-  <img src="ressources/polytech.png" alt="Polytech" style="height:100px;"/>
+  <img src="ressources/polytech.jpg" alt="Polytech" style="height:100px;"/>
+    <img src="ressources/um.png" alt="Polytech" style="height:100px;"/>
   <img src="ressources/erios.png" alt="ERIOS" style="height:100px;"/>
 </p>
 
