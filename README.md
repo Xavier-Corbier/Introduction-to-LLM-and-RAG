@@ -1,4 +1,7 @@
-<img src="ressources/polytech.png" alt="logo" style="height:100px;"/>
+<p align="left">
+  <img src="ressources/polytech.png" alt="Polytech" style="height:100px;"/>
+  <img src="ressources/erios.png" alt="ERIOS" style="height:100px;"/>
+</p>
 
 # Introduction to LLM & RAG
 ### Polytech Montpellier – FLOW Summer School
