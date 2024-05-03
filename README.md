@@ -4,7 +4,6 @@
   <img src="ressources/erios.png" alt="ERIOS" style="height:100px;"/>
 </p>
 
-# Introduction to LLM & RAG
 ### Polytech Montpellier – FLOW Summer School
 
 * **Course material:** [Wooclap](https://app.wooclap.com/YMSNKO) 
