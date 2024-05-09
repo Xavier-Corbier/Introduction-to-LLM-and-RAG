@@ -16,7 +16,7 @@
   - [Part 3: The Top 10 ChatGPT alternatives to ChatGPT](./sessions/S2-P3.md)
 - Session 3: Developing with Generative AI Models  
   - [Part 1: Getting Started with Hugging Face](./sessions/S3-P1.md)  [[Notebook Version](https://colab.research.google.com/drive/1uGP4fY0YGokoBkX_5DiyS4gTTlZQNcGw?usp=sharing)]
-  - [Part 2: Fine tuning LLM](./sessions/S3-P2.md)
+  - [Part 2: Fine tuning LLM](./sessions/S3-P2.md) [[Notebook Version](https://colab.research.google.com/drive/1_s5BeyYQhxr6P_FKPEkPyeXvhEn1LPNc?usp=sharing)]
   - [Part 3: What is Retrieval-augmented generation (RAG)](./sessions/S3-P3.md)
 
 # For further exploration
