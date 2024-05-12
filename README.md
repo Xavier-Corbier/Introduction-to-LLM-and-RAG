@@ -20,6 +20,7 @@
   - [Part 3: What is Retrieval-augmented generation (RAG)](./sessions/S3-P3.md)
 
 # For further exploration
+- [Github: Your ultimate resource for LLM](https://github.com/ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing)
 - [Datacamp: AI fundamentals](https://app.datacamp.com/learn/skill-tracks/ai-fundamentals)
 - [Microsoft: Career path engineer AI](https://learn.microsoft.com/fr-fr/training/career-paths/ai-engineer)
 
