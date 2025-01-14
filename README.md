@@ -1,6 +1,5 @@
 
 
-### Polytech Montpellier – FLOW Summer School
 
 * **Course material:** [Wooclap](https://app.wooclap.com/YMSNKO) 
 * **Teacher:** [Xavier CORBIER](https://xaviercorbier.fr/?lang=en)
@@ -18,6 +17,8 @@
   - [Part 1: Getting Started with Hugging Face](./sessions/S3-P1.md)  [[Notebook Version](https://colab.research.google.com/drive/1uGP4fY0YGokoBkX_5DiyS4gTTlZQNcGw?usp=sharing)]
   - [Part 2: Fine tuning LLM](./sessions/S3-P2.md) [[Notebook Version](https://colab.research.google.com/drive/1_s5BeyYQhxr6P_FKPEkPyeXvhEn1LPNc?usp=sharing)]
   - [Part 3: What is Retrieval-augmented generation (RAG)](./sessions/S3-P3.md)
+- Labs:
+  - [Exploring Prompt Engineering Techniques](./sessions/TP1-1.md) [[Français](./sessions/TP1-1-vf.md)]
 
 # For further exploration
 - [Github: Your ultimate resource for LLM](https://github.com/ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing)
