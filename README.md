@@ -3,6 +3,7 @@
 
 * **Course material:** [Wooclap](https://app.wooclap.com/YMSNKO) 
 * **Teacher:** [Xavier CORBIER](https://xaviercorbier.fr/?lang=en)
+* **Link:** [https://tinyurl.com/Xavier-LLM](https://tinyurl.com/Xavier-LLM)
 
 # Table of contents
 - Session 1: Introduction to Large Language Models (LLMs) 
