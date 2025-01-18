@@ -1,23 +1,22 @@
 
 
 
-* **Course material:** [Wooclap](https://app.wooclap.com/YMSNKO) 
 * **Teacher:** [Xavier CORBIER](https://xaviercorbier.fr/?lang=en)
 * **Link:** [https://tinyurl.com/Xavier-LLM](https://tinyurl.com/Xavier-LLM)
 
 # Table of contents
 - Session 1: Introduction to Large Language Models (LLMs) 
-  - [Part 1: Overview of Language Models ](./sessions/S1-P1.md)
-  - [Part 2: Introduction to Responsible AI ](./sessions/S1-P2.md)
-  - [Part 3: Safety & Fairness Considerations for Generative Models ](./sessions/S1-P3.md)
+  - [Part 1: Overview of Language Models ](./sessions/S1-P1.md) [[Français](./sessions/S1-P1-vf.md)]
+  - [Part 2: Introduction to Responsible AI ](./sessions/S1-P2.md) [[Français](./sessions/S1-P2-vf.md)]
+  - [Part 3: Safety & Fairness Considerations for Generative Models ](./sessions/S1-P3.md) [[Français](./sessions/S1-P3-vf.md)]
 - Session 2: Working with Large Language Models 
-  - [Part 1: Prompt Engineering](./sessions/S2-P1.md)
-  - [Part 2: Getting Started with ChatGPT](./sessions/S2-P2.md)
-  - [Part 3: The Top 10 ChatGPT alternatives to ChatGPT](./sessions/S2-P3.md)
+  - [Part 1: Prompt Engineering](./sessions/S2-P1.md) [[Français](./sessions/S2-P1-vf.md)]
+  - [Part 2: Getting Started with ChatGPT](./sessions/S2-P2.md) [[Français](./sessions/S2-P2-vf.md)]
+  - [Part 3: The Top 10 ChatGPT alternatives to ChatGPT](./sessions/S2-P3.md) [[Français](./sessions/S2-P3-vf.md)]
 - Session 3: Developing with Generative AI Models  
   - [Part 1: Getting Started with Hugging Face](./sessions/S3-P1.md)  [[Notebook Version](https://colab.research.google.com/drive/1uGP4fY0YGokoBkX_5DiyS4gTTlZQNcGw?usp=sharing)]
   - [Part 2: Fine tuning LLM](./sessions/S3-P2.md) [[Notebook Version](https://colab.research.google.com/drive/1_s5BeyYQhxr6P_FKPEkPyeXvhEn1LPNc?usp=sharing)]
-  - [Part 3: What is Retrieval-augmented generation (RAG)](./sessions/S3-P3.md)
+  - [Part 3: What is Retrieval-augmented generation (RAG)](./sessions/S3-P3.md) [[Français](./sessions/S3-P3-vf.md)]
 - Labs:
   - [Exploring Prompt Engineering Techniques](./sessions/TP1-1.md) [[Français](./sessions/TP1-1-vf.md)]
 
