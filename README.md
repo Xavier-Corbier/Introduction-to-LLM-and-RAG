@@ -19,7 +19,9 @@
   - [Part 3: What is Retrieval-augmented generation (RAG)](./sessions/S3-P3.md) [[Français](./sessions/S3-P3-vf.md)]
 - Labs: 
   - [Exploring Prompt Engineering Techniques](./sessions/TP1-1.md) [[Français](./sessions/TP1-1-vf.md)]
-  - [TP: Access a Free Generative AI API with Mistral AI and Groq](./sessions/TP2-1.md) [[Français](./sessions/TP2-1-vf.md)]
+  - [Access a Free Generative AI API with Mistral AI and Groq](./sessions/TP2-1.md) [[Français](./sessions/TP2-1-vf.md)]
+  - [Building a Web Chat Application with a Generative AI](./sessions/TP3-1.md) [[Français](./sessions/TP3-1-vf.md)]
+  - [Building a Classification Pipeline Using a Generative AI](./sessions/TP4-1.md) [[Français](./sessions/TP4-1-vf.md)]
 
 # For further exploration
 - [Github: Your ultimate resource for LLM](https://github.com/ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing)
