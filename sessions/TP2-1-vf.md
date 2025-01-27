@@ -23,11 +23,10 @@ Groq est une entreprise américaine qui conçoit des puces d’inférence pour I
 3. Une fois inscrit, connectez-vous à **La Plateforme**.
 4. Accédez au plan gratuit pour démarrer sans frais.
 
-### **Étape 2 : Création d'un Endpoint API**
-1. Dans votre espace utilisateur, cliquez sur **Create New Endpoint**.
-2. Sélectionnez un modèle (par exemple, Mistral-7B).
-3. Configurez les paramètres du modèle (max tokens, température, etc.).
-4. Une URL unique et une clé API vous seront fournies.
+### **Étape 2 : Récupérer une clé API**
+1. Abonnez vous à l'abonnement gratuit.
+2. Créez une clé API.
+3. Chosissez un modèle.
 
 ### **Étape 3 : Intégration de l’API dans votre Application**
 Utilisez l’URL et la clé API pour effectuer des requêtes HTTP. Voici un exemple en Python :
@@ -73,10 +72,10 @@ print(ai_response)
    - **GroqGPT**
    - Autres modèles open source supportés.
 
-### **Étape 3 : Création d’un Endpoint API**
-1. Cliquez sur **Create New Endpoint**.
-2. Définissez les paramètres requis (modèle, limites de tokens, etc.).
-3. Obtenez une URL unique et une clé API pour l’intégration.
+### **Étape 3 : Récupérer une clé API**
+1. Abonnez vous à l'abonnement gratuit.
+2. Créez une clé API.
+3. Chosissez un modèle.
 
 ### **Étape 4 : Intégration de l’API dans votre Application**
 Voici un exemple Python pour utiliser GroqCloud :
