@@ -84,7 +84,7 @@ Voici un exemple Python pour utiliser GroqCloud :
 from openai import OpenAI  # Import OpenAI module for interacting with the OpenAI API
 
 client = OpenAI(
-    base_url="https://api.groqcloud.com/v1",  # Fetch the API endpoint from environment variables
+    base_url="https://api.groq.com/openai/v1",  # Fetch the API endpoint from environment variables
     api_key="votre_clé_api",  # Fetch the API key from environment variables
 )
 
